@@ -31,7 +31,7 @@ This project features a comprehensive sign-up and login system built with HTML, 
 
 ### Live Demo
 
-Explore the live demo of the authentication and profile management system [here](https://your-live-demo-link.com).
+Explore the live demo of the authentication and profile management system [here](https://farhansahibzada.github.io/Advanced-Authentication-and-Profile-Management/).
 
 ### Contact
 
